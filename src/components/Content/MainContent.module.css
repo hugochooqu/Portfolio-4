@@ -1,0 +1,54 @@
+.main{
+    font-family:'Times New Roman', Times, serif;
+    position: relative;
+    left: 90px;
+    padding-left:60px;
+    top: 100px;
+    width: 70vw;
+    height: 100vh;
+}
+.main p{
+    color: yellow;
+    word-spacing: 5px;
+
+}
+
+.main h1{
+    position: relative;
+    font-size: 400%;
+    bottom: 40px;
+    color: rgb(245, 245, 238);
+    padding: 0%;
+    
+    
+}
+
+.main h2{
+    position: relative;
+    font-size: 400%;
+    bottom: 90px;
+    color: rgb(143, 143, 140);
+    padding: 0%;   
+    word-spacing: 2px;
+}
+
+.main h3{
+    position: relative;
+    bottom: 100px;
+    height:1%;
+    width: 70%;
+    font-size: 130%;
+    color: rgb(83, 83, 83);
+    word-spacing: 5px;
+    font-weight: 100;
+}
+
+
+.btn{
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    font-size: 15px;
+    color: yellow;
+    width:auto;
+    font-weight: 1000;
+  }

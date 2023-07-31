@@ -1,0 +1,22 @@
+.social{
+    width: 5%;
+    height: 50%;
+    top: 300px;
+    position: fixed;
+    list-style-type:none;
+    
+}
+
+.social li{
+    padding: 50% 0%;
+}
+
+.social li a{
+color: rgb(143, 143, 140);
+
+}
+
+.social li a:hover{
+    color: yellow;
+}
+

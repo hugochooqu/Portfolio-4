@@ -1,0 +1,33 @@
+.button {
+  font-family: 'Courier New', Courier, monospace;
+  font: inherit;
+  border: 1px solid rgb(255, 238, 0);
+  background: transparent;
+  /* color: yellow; */
+  padding: 1px 1.5rem;
+  height: 5vh;
+  cursor: pointer;
+  font-size: small;
+  border-radius: 0px;
+}
+
+.button:hover,
+.button:active {
+  background: #e6d70d;
+  color:  rgb(0, 15, 11);
+}
+
+.button:focus {
+  outline: none;
+}
+
+button:disabled,
+button:focus:disabled,
+button:hover:disabled,
+button:active:disabled {
+  background: #ccc;
+  border-color: #e6d70d;
+  color: #666666;
+  cursor: not-allowed;
+}
+

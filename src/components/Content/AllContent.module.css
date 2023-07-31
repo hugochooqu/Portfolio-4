@@ -1,0 +1,18 @@
+.all-content{
+    display: flex;
+    background: rgb(0, 15, 11);
+
+}
+.mail{
+    writing-mode: vertical-lr;
+    width: 5%;
+    height: 50%;
+    top: 330px;
+    position: fixed;
+    right: 0%;
+    cursor: pointer;
+}
+
+.mail a{
+    color: rgb(143, 143, 140);
+}
